@@ -1,0 +1,16 @@
+# Binaries
+bootpd
+bootpd.exe
+
+# Test binary
+internal/config/testdata/
+
+# Go modules
+go.sum
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
