@@ -14,3 +14,5 @@ go.sum
 
 # OS specific files
 .DS_Store
+
+coverage.out
